@@ -41,4 +41,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@aniketmnemade] - feel free to contact me!
+Created by [aniketnagpur@gmail.com] - feel free to contact me!
