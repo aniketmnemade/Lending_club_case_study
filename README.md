@@ -35,21 +35,10 @@ This case study consists of the patterns that helps to identify variables due to
 - Pandas - version 2.1.4
 - Seaborn - version 0.13.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [upGrad].
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@aniketmnemade] - feel free to contact me!
