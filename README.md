@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e935443-9459-4b6e-aff9-db05c52c0a4b)![image](https://github.com/user-attachments/assets/93d0ed7e-62c3-4963-b054-410f3aa80c47)# Lending_club_case_study
+# Lending_club_case_study
 This case study consists of the patterns that helps to identify variables due to which loss can be control.
 
 
